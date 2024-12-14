@@ -96,6 +96,10 @@ char* bitwiseOr(int number_1, int number_2) {
 	return result;
 }
 
+char* bitwiseXOR(int number_1, int number_2) {
+	
+}
+
 
 int main() {
 	int number_1, number_2;
